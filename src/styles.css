@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  border: 2px solid;
+  padding: 10px;
+}
+.country {
+  margin-bottom: 2px;
+  background-color: #eee;
+}
+.country-graph {
+  color: maroon;
+  display: inline;
+  background-color: maroon;
+}
+.country-name {
+  display: inline;
+}
